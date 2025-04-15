@@ -1,5 +1,5 @@
 #accordin-menu
-simple js practice
+simple js practice⏬
 [demo project](https://mohammadrezaafroozi.github.io/accordion-menu/)
 - Developed by MohammadReza Afroozi
 - Created - 2025
