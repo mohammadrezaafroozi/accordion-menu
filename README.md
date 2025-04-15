@@ -3,7 +3,7 @@ simple js practice⏬
 [demo project](https://mohammadrezaafroozi.github.io/accordion-menu/)
 - Developed by MohammadReza Afroozi
 - Created - 2025
-- 🤖 Technologies Used - Html , css 
+- 🤖 Technologies Used - Html , css , js 
 
 - 🤖🤖♀️ Role - Frontend
 - Master : Parsa - Ghorbanian
